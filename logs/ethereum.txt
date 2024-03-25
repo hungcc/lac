@@ -106,3 +106,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0xa1780b95e"}
 {"jsonrpc":"2.0","id":1,"result":"0x843369dce"}
 {"jsonrpc":"2.0","id":1,"result":"0x85129f105"}
+error code: 502
