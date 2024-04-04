@@ -696,3 +696,4 @@ error code: 522
 {"jsonrpc":"2.0","id":1,"result":"0x4b85f1782"}
 {"jsonrpc":"2.0","id":1,"result":"0x5079164ed"}
 {"jsonrpc":"2.0","id":1,"result":"0x4949c354f"}
+error code: 522
