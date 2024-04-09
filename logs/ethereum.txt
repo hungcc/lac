@@ -1010,3 +1010,10 @@ error code: 520
 {"jsonrpc":"2.0","id":1,"result":"0xd24c418ed"}
 {"jsonrpc":"2.0","id":1,"result":"0x9d85395a3"}
 error code: 522
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
