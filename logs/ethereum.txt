@@ -1189,3 +1189,4 @@ error code: 522
 <hr><center>nginx</center>
 </body>
 </html>
+{"jsonrpc":"2.0","id":1,"result":"0x4918a2d7b"}
