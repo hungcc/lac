@@ -1182,3 +1182,10 @@ error code: 522
 {"jsonrpc":"2.0","id":1,"result":"0x2c8de61bd"}
 {"jsonrpc":"2.0","id":1,"result":"0x2e232dd8a"}
 {"jsonrpc":"2.0","id":1,"result":"0x262c74bdc"}
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
