@@ -1308,3 +1308,10 @@ error code: 522
 {"jsonrpc":"2.0","id":1,"result":"0x25e7d3b64"}
 {"jsonrpc":"2.0","id":1,"result":"0x2bb895cb1"}
 {"jsonrpc":"2.0","id":1,"result":"0x26173f0d1"}
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
