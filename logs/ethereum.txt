@@ -1376,3 +1376,10 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x33b617004"}
 {"jsonrpc":"2.0","id":1,"result":"0x3db34e3ca"}
 {"jsonrpc":"2.0","id":1,"result":"0x27528ace8"}
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
