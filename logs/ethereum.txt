@@ -2818,3 +2818,4 @@ error code: 525
 {"jsonrpc":"2.0","id":1,"result":"0x1767166c9"}
 {"jsonrpc":"2.0","id":1,"result":"0x1a75f0035"}
 {"jsonrpc":"2.0","id":1,"result":"0x1c9d4bbb1"}
+error code: 502
