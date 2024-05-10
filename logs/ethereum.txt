@@ -2888,3 +2888,4 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0x1e89d1899"}
 {"jsonrpc":"2.0","id":1,"result":"0x1b18dd94c"}
 {"jsonrpc":"2.0","id":1,"result":"0x1d9862600"}
+error code: 502
