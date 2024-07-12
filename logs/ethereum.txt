@@ -6416,3 +6416,4 @@ error code: 524
 {"jsonrpc":"2.0","id":1,"result":"0xd52fe21d"}
 {"jsonrpc":"2.0","id":1,"result":"0xa394854e"}
 {"jsonrpc":"2.0","id":1,"result":"0x9a856681"}
+error code: 524
