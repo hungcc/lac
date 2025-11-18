@@ -29567,3 +29567,4 @@ error code: 524
 {"jsonrpc":"2.0","id":1,"result":"0xd207b37"}
 error code: 500
 {"jsonrpc":"2.0","id":1,"result":"0x7c357d2"}
+error code: 500
