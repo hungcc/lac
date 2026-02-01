@@ -32434,3 +32434,5 @@ error code: 502
 {"jsonrpc":"2.0","id":1,"result":"0xae8d167"}
 {"jsonrpc":"2.0","id":1,"result":"0x91aaca7"}
 error code: 502
+530 
+The origin has been unregistered from Argo Tunnel
